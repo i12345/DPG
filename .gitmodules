@@ -1,0 +1,9 @@
+[submodule "DPG.NET"]
+	path = DPG.NET
+	url = ./DPG.NET
+[submodule "DPG.TS"]
+	path = DPG.TS
+	url = ./DPG.TS
+[submodule "VisualGraphEditor"]
+	path = VisualGraphEditor
+	url = ./VisualGraphEditor
