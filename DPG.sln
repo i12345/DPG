@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPG.NET", "DPG.NET\DPG.NET.csproj", "{7825F4A2-C95D-4A55-BC19-408CB3DE36A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-helpers", "dotnet-helpers\dotnet-helpers.csproj", "{B2272D6B-8D7D-4B19-86A9-0E4963D2D527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7825F4A2-C95D-4A55-BC19-408CB3DE36A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7825F4A2-C95D-4A55-BC19-408CB3DE36A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7825F4A2-C95D-4A55-BC19-408CB3DE36A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7825F4A2-C95D-4A55-BC19-408CB3DE36A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2272D6B-8D7D-4B19-86A9-0E4963D2D527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2272D6B-8D7D-4B19-86A9-0E4963D2D527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2272D6B-8D7D-4B19-86A9-0E4963D2D527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2272D6B-8D7D-4B19-86A9-0E4963D2D527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -7,3 +7,6 @@
 [submodule "VisualGraphEditor"]
 	path = VisualGraphEditor
 	url = ./VisualGraphEditor
+[submodule "dotnet-helpers"]
+	path = dotnet-helpers
+	url = ./dotnet-helpers
